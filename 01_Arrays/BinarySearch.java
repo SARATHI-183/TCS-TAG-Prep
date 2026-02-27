@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a sorted array of integers, find the index of a given target number. If the target number is not present in the array, return -1.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

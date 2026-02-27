@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a sorted array of integers, count the number of occurrences of a given target number in the array.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

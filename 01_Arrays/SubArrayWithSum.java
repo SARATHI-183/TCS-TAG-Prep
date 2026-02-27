@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given an array of integers and a target number, determine if there is a contiguous subarray in the array that sums up to the target number. If such a subarray exists, return "YES"; otherwise, return "NO".
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

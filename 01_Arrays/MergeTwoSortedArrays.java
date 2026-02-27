@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given two sorted arrays of integers, merge them into a single sorted array.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

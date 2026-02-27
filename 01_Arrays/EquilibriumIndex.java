@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given an array of integers, find the equilibrium index of the array. The equilibrium index is the index where the sum of elements to the left of the index is equal to the sum of elements to the right of the index. If there are multiple equilibrium indices, return the smallest one. If there is no equilibrium index, return -1.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

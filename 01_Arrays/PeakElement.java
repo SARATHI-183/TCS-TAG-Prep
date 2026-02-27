@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a sorted array of integers, find the first and last occurrence of a given target number in the array. If the target number is not present in the array, return -1 for both occurrences.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given an array of integers, count the number of pairs of integers in the array that sum up to a given target number. Each pair should be counted only once, and the order of the integers in the pair does not matter.
+
 class Main
 {
 	public static void main (String[] args) 

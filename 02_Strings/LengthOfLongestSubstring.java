@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a string, find the length of the longest substring without repeating characters.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

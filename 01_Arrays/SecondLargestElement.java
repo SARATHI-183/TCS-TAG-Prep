@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Given an array of integers, find the second largest element in the array. If there is no second largest element (i.e., all elements are the same), return -1.
+
 public class SecondLargestElement {
     	public static void main (String[] args) 
 	{

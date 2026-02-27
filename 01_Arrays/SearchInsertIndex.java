@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a sorted array of integers and a target number, find the index where the target number would be inserted in order to maintain the sorted order of the array. If the target number is already present in the array, return its index.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

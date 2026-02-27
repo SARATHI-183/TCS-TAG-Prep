@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a sorted array of integers that has been rotated at some pivot unknown to you beforehand, find the minimum element in the array. The array may contain duplicates.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

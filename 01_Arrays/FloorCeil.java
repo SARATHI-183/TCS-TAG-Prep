@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a sorted array of integers, find the floor and ceil of a given target number. The floor of a target number is the greatest element in the array that is smaller than or equal to the target, while the ceil of a target number is the smallest element in the array that is greater than or equal to the target.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

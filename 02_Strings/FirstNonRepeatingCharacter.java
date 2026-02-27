@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a string, find the first non-repeating character in it and return its value. If there is no non-repeating character, return -1.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

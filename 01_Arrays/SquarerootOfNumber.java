@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a non-negative integer x, compute and return the square root of x. The returned result should be an integer, and the decimal part will be truncated. You are not allowed to use any built-in exponent function or operator.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception

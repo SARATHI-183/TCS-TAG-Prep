@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given a sorted 2D matrix of integers, where each row is sorted in ascending order and the first integer of each row is greater than the last integer of the previous row, find if a given target number exists in the matrix. Return true if it exists, otherwise return false.
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception
