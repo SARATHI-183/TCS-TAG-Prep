@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given an array of integers representing the positions of stalls and a number of cows, determine the largest minimum distance that can be maintained between any two cows when placing them in the stalls.
+
 class Main
 {
     

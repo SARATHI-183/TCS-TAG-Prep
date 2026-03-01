@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given an array of integers representing the number of pages in each book and a number of students, determine the minimum number of pages that can be allocated to a student such that all books are allocated and the maximum number of pages allocated to any student is minimized.
+
 class Main
 {
     

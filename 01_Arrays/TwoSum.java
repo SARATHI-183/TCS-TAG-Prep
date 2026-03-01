@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Given an array of integers and a target number, find the indices of the two numbers in the array that add up to the target number. Assume that there is exactly one solution, and you may not use the same element twice.
+
 class Main
 {
     
