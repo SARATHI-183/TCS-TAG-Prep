@@ -25,6 +25,8 @@ A curated collection of DSA problems solved in Java, organized by topic, for TCS
 17. Square Root of a Number
 18. Sub Array With Given Sum
 19. Two Sum
+20. Length of Longest Subsequence
+21. Product of Array Except itself
 
 ---
 
