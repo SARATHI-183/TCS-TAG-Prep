@@ -27,6 +27,7 @@ A curated collection of DSA problems solved in Java, organized by topic, for TCS
 19. Two Sum
 20. Length of Longest Subsequence
 21. Product of Array Except itself
+22. Rotate Array By K
 
 ---
 
