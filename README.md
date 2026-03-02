@@ -34,6 +34,8 @@ A curated collection of DSA problems solved in Java, organized by topic, for TCS
 26. Move Zeros to end
 27. Set Matrix Zeros
 28. Rotate Matrix By 90
+29. Trapping water
+30. Buy and Sell Stock
 
 ---
 
