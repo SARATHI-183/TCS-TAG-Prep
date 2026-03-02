@@ -30,6 +30,7 @@ A curated collection of DSA problems solved in Java, organized by topic, for TCS
 22. Rotate Array By K
 23. Majority Element
 24. Missing Number
+25. Monkey Jump
 
 ---
 
