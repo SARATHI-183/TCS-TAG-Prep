@@ -31,6 +31,7 @@ A curated collection of DSA problems solved in Java, organized by topic, for TCS
 23. Majority Element
 24. Missing Number
 25. Monkey Jump
+26. Move Zeros to end
 
 ---
 
