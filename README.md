@@ -32,6 +32,8 @@ A curated collection of DSA problems solved in Java, organized by topic, for TCS
 24. Missing Number
 25. Monkey Jump
 26. Move Zeros to end
+27. Set Matrix Zeros
+28. Rotate Matrix By 90
 
 ---
 
@@ -40,5 +42,8 @@ A curated collection of DSA problems solved in Java, organized by topic, for TCS
 1. Anagram
 2. First Non-Repeating Character
 3. Length of Longest Substring Without Repeating Characters
+4. Remove Duplicates
+5. Longest Common Prefix
+6. Count Vowels and Consonants
 
 ---
